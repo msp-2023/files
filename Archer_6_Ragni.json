@@ -21121,16 +21121,6 @@
     },
     {
       "location": {
-        "x": -794.5325599338439,
-        "y": 70.0,
-        "z": -1406.6737988076802
-      },
-      "note": {
-        "text": "LVL 10 cave. DANGER-- this cave is amazing for farming equipment (no XP though)"
-      }
-    },
-    {
-      "location": {
         "x": -771.4488068649455,
         "y": 67.0,
         "z": -1626.5732422534709
@@ -21210,5 +21200,5 @@
       }
     }
   ],
-  "date": "Feb 28, 2023, 7:44:15 PM"
+  "date": "Dec 30, 2023, 8:40:10 PM"
 }
